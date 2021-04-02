@@ -1,0 +1,7 @@
+D:\Practices\valueAndReferance\bin\Debug\valueAndReferance.exe.config
+D:\Practices\valueAndReferance\bin\Debug\valueAndReferance.exe
+D:\Practices\valueAndReferance\bin\Debug\valueAndReferance.pdb
+D:\Practices\valueAndReferance\obj\Debug\valueAndReferance.csprojAssemblyReference.cache
+D:\Practices\valueAndReferance\obj\Debug\valueAndReferance.csproj.CoreCompileInputs.cache
+D:\Practices\valueAndReferance\obj\Debug\valueAndReferance.exe
+D:\Practices\valueAndReferance\obj\Debug\valueAndReferance.pdb
